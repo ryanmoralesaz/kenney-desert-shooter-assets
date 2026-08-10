@@ -1,0 +1,8 @@
+{
+  "name": "com.ryan.kenney-desert-shooter",
+  "version": "1.0.0",
+  "displayName": "Kenney Desert Shooter Pack",
+  "description": "Kenney's free CC0 Desert Shooter 2D asset pack, wrapped as a UPM package for reuse across course mini-projects.",
+  "unity": "2022.3",
+  "license": "CC0-1.0"
+}
